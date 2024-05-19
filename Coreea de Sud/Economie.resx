@@ -117,35 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Kim_Dae-Jung_2002" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kim_Dae-Jung_2002.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>	După cel de-al Doilea Război Mondial, Statele Unite ale Americii au sprijinit economia sud-coreeană.
+	Coreea de Sud este o putere economică la nivel mondial și face parte din categoria țărilor dezvoltate. Are a douăsprezecea economie la nivel mondial și a treia în Asia, după Japonia și China. Cel mai mare partener comercial și de export al Coreei de Sud este, astăzi, China. Țara a avut o creștere economică rapidă datorită exporturilor de produse finite, fiind una din cei Patru Tigri Asiatici.</value>
   </data>
-  <data name="Korea_south_map" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Korea_south_map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>~Industrie~
+	Cele mai importante ramuri ale industriei sunt construcția de automobile, de semiconductoare, de electronice (Samsung și LG Electronics), de nave și industria siderurgică.
+	Petrolul extras din Insula Jeju este prelucrat în rafinăriile de la Yosu și Ulsan. În industria siderurgică sunt folosite minereuri de fier extrase de la Chongju și Yangyang, cărbuni cocsificabili extrași, în special, de la Samchock și lemn. Cele mai mari centre siderurgice sunt Inchon și Insula Jeju. Principalele produse chimice sunt acidul sulfuric, soda caustică și soda calcinată, îngrășămintele azotoase și chimice, concentratele complexe și produsele petrochimice (cauciuc, mase plastice, etc), care se produc, în special, la cel mai mare centru petrochimic, cel de la Ulsan. În domeniul construcției de automobile, țara se află pe locul al cincilea pe glob, cei mai mari producători fiind Hyundai și Kia Motors</value>
   </data>
-  <data name="samsung-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>~Agricultură~
+	Agricultura polarizează 12% din populația activă, dar, deși este foarte productivă, nu asigură necesarul intern. Pe jumătate din suprafața agricolă se cultivă orezul, pe 11% din terenuri orz, iar pe restul se mai cultivă batate (cartofi dulci), tutun și soia. Pescuitul reprezintă, la rândul său, o altă ramură importantă, plasând Coreea de Sud pe locul 9 în lume.</value>
   </data>
-  <data name="History_of_Korea-476" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\History_of_Korea-476.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>~Comerț~
+	Comerțul exterior a crescut mult în anii '60, ducând la dezvoltarea economică a acestui stat. Coreea de sud își exportă produsele în SUA, Republica Populară Chineză, Japonia și Republica China (Taiwan), etc. Coreea de Sud exportă: textile, utilaje, nave, produse electrotehnice, automobile, articole de cauciuc, conserve de pește și porțelan, iar principalele produse importate sunt: petrolul, produsele petrochimice, produsele chimice, materiile prime, mașini și utilaje.</value>
   </data>
-  <data name="samsung-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox5.Text" xml:space="preserve">
+    <value>~Transport și infrastructură~
+	Sunt bine dezvoltate, principala cale ferată leagă orașele Seul, Daejeon, Daegu și Busan. Coreea de Sud are 11 mari porturi și 4 mari aeroporturi. Și comunicațiile sunt bine dezvoltate, Coreea de Sud are 84 stații de radio AM și 53 de stații FM. Coreea de Sud este un mare producător de telefonie mobilă, principalele companii sunt LG și Samsung.</value>
   </data>
-  <data name="Coreea de sud steaguri" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Coreea de sud steaguri.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="jeju island" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jeju island.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Jeondong_Catholic_Cathedral_20230408_005" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jeondong_Catholic_Cathedral_20230408_005.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Auto_Show_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Auto_Show_061.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hangul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hangul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox6.Text" xml:space="preserve">
+    <value>~Turism~
+	Turismul din Coreea de Sud se referă la industria turistică din Republica Coreea. În anul 2012, 11,1 milioane de turiști străini au vizitat Coreea de Sud, făcând-o a 20-a cea mai vizitată țară din lume și a 6-a cea mai vizitată din Asia. Majoritatea turiștilor non-coreeni provin din alte părți ale Asiei de Est, cum ar fi Japonia, China, Taiwan și Hong Kong. Recenta popularitate a culturii populare coreene, adesea cunoscută sub numele de "valul coreean", a crescut în aceste țări sosirile turiștilor. Seul este principala destinație turistică pentru vizitatori; destinațiile turistice populare din afară Seulului includ parcul național Seorak-san, orașul istoric Gyeongju și insula subtropicală Jeju.</value>
   </data>
 </root>

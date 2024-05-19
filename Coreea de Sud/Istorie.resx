@@ -117,35 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Kim_Dae-Jung_2002" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kim_Dae-Jung_2002.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Korea_south_map" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Korea_south_map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="samsung-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="History_of_Korea-476" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\History_of_Korea-476.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="samsung-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Coreea de sud steaguri" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Coreea de sud steaguri.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="jeju island" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jeju island.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Jeondong_Catholic_Cathedral_20230408_005" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jeondong_Catholic_Cathedral_20230408_005.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Auto_Show_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Auto_Show_061.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hangul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hangul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Teritoriul peninsulei a fost populat încă din cele mai vechi timpuri. Choson este primul stat coreean fondat în sec. 4 î. Hr. în nordul peninsulei, dar este cucerit temporar în anul 108 î. Hr. de Imperiul Chinez. Din secolul 1 .î. Hr., apar regatele Silla (în sud-est), Baekje (în jumătatea apuseană a peninsulei) și Koguryo (în nord), ce se vor lupta între sec. 5-7 pentru supremație, până în 675, când peninsula este reunificată sub controlul Silla. Începând cu secolul 4, se răspândește Budismul, original din India, ce va pătrunde aici din China, și devine religia oficială a Regatului Silla, în anul 528. În anul 918 ia ființă Regatul Goryeo, condus de dinastia Goryeo, care a continuat să existe până la invazia mongolilor din anul 1258. După alungarea mongolilor în a doua jumătate a sec. 14, generalul Yi Song-Gye a instaurat dinastia Yi, fondatoarea noului stat coreean Joseon. În secolul al XVII-lea statul a intrat în sfera de influență a dinastiei chineze Qing, de origine manciuriană. Ulterior, peninsula s-a izolat tot mai mult de lumea externă.
+În anul 1895, prin Tratatul de la Shimonoseki se instaureză protectoratul Japoniei, iar în 1910 Coreea este anexată de aceasta. După cel de-al Doilea Război Mondial, odată cu înfrângerea Japoniei, nordul Coreei este controlat de armata rusă în august 1945, în timp ce sudul este controlat de americani. Prin Constituția de la 17 iulie 1948 se proclamă Republica Coreea, iar la 15 august, același an, este alcătuit primul guvern de către președintele Li Sang Man. Independența țării a fost recunoscută de ONU la 12 decembrie 1948. Pe data de 25 iunie 1950 Coreea de Nord invadează Coreea de Sud, astfel izbucnind Războiul coreean, care încetează în urma armistițiului de la Panmunjon din 27 iulie 1953.
+În ciuda acestor conflicte dintre Coreea de Nord și Coreea de Sud, țara a devenit tot mai activă pe plan internațional. În 1990 se stabilesc relații diplomatice cu URSS, iar în 1991 Republica Coreea devine membru al ONU. În decembrie 2000, președintele Kim Dae Jung primește Premiul Nobel pentru Pace.
+
+</value>
   </data>
 </root>

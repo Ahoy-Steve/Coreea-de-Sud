@@ -117,35 +117,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Kim_Dae-Jung_2002" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kim_Dae-Jung_2002.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>	Populația Coreei de Sud este de 50.004.441 de locuitori, fiind totodată printre statele cu cele mai mari densități din lume. Populația este compusă în special din coreeni, iar minoritățile cele mai mari sunt chinezi han, japonezi și mongoli. Peste 80% din populația Coreei de sud locuiește la oraș.</value>
   </data>
-  <data name="Korea_south_map" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Korea_south_map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>~Religie~
+	Principalele religii sunt: budismul și creștinismul (protestantismul și romano-catolicismul). Adoptată ca ideologie de stat de către dinastia Joseon, confucianismul este mai degrabă un sistem de etică decât unul religios, subliniind importanța fidelității, respectului pentru părinți și a altor virtuți.
+	Creștinismul din Coreea a fost confruntat cu mai multe valuri de persecuții, în special în secolul al XIX-lea.</value>
   </data>
-  <data name="samsung-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>~Limbă~
+	Limba oficială este coreeana. Este o limbă izolată (adică, nu este înrudită genealogic cu nicio altă limbă), chiar dacă unii lingviști consideră că face parte din familia altaică. Este considerată ca fiind înrudită cu japoneza. Înainte de a avea o scriere proprie, era scrisă folosind hanja (ideograme chinezești pronunțate în coreeană). În secolul al XV-lea, un sistem de scris propriu, numit hangul, a fost inventat la cererea regelui Sejong cel Mare.</value>
   </data>
-  <data name="History_of_Korea-476" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\History_of_Korea-476.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="samsung-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Coreea de sud steaguri" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Coreea de sud steaguri.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="jeju island" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jeju island.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Jeondong_Catholic_Cathedral_20230408_005" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jeondong_Catholic_Cathedral_20230408_005.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Auto_Show_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Auto_Show_061.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hangul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hangul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>~Educație~
+	Coreenii manifestă un deosebit respect față de educație, având un sistem excelent de bine pus la punct; dovadă fiind numărul mare de muncitori calificați în toate domeniile. Acestea au dus la o creștere economică rapidă a țării.
+	Sistemul de școlarizare este compus din grădiniță (de la 1 la 3 ani), școală primară (6 ani), școală secundară (3 ani), liceu (3 ani) și universitate. </value>
   </data>
 </root>

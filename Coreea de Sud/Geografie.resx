@@ -117,35 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Kim_Dae-Jung_2002" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kim_Dae-Jung_2002.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>	Coreea de Sud ocupă teritoriul sudic al Peninsulei Coreea, care pătrunde în mare aproximativ 1.100 km. Această peninsulă muntoasă este înconjurată la vest de Marea Galbenă, la est de Marea Japoniei și în sud de Strâmtoarea Coreea și Marea Chinei de Est. Suprafața totală a țării este de 100.210 km².
+Coreea de Sud poate fi împărțită în patru mari regiuni:
+	-partea estică cu munți înalți și câmpii litorale înguste;
+	-partea vestică cu vaste câmpii litorale, râuri și dealuri domoale;
+	-partea sud-vestică cu munți și văi;
+	-partea sud-estică dominată de întinsul bazin al râului Nakdong.
+	Teritoriul țării este predominant muntos și este, în mare parte, neutilizabil în agricultură. Zonele de șes constituie doar 30% din suprafața totală.
+	Aproape 3.000 de insule, majoritatea nelocuite, aflate pe coasta vestică și estică, intră în componența teritoriului Coreei de Sud. Insula Jeju se află la aproximativ 100 kilometri sud în largul Mării Chinei de Est. Este cea mai mare insulă, cu o suprafață de 1.845 km². Aici se atinge cea mai ridicată altitudine, de 1.950 metri, pe vulcanul stins Halla-san. Alte insule mai sunt Ulleungdo și Stâncile Liancourt, care este situată la cea mai mare distanță în largul mării dintre toate insulele, precum și Insula Marado, care este cel mai sudic punct. Stâncile Liancourt sunt una dintre numeroasele insule disputate cu Japonia, iar Ulleungdo este nelocuită.</value>
   </data>
-  <data name="Korea_south_map" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Korea_south_map.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>~Hidrografie~
+	Râurile din Coreea de Sud sunt scurte și repezi. Ele sunt folosite mult pentru irigații și pentru crearea hidroelectricității, dar au o valoare limitată pentru navigație. Cele mai importante râuri sunt: Taedong, Han și Kum, în partea centrală a țării și Nakdong, cel mai lung râu din Coreea de Sud, situat în sud-est.</value>
   </data>
-  <data name="samsung-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>~Faună și floră~
+	Vegetația corespunde florei manciuriene apărute la contactul dintre pădurile temperate boreale (taigaua) și vegetația subtropicală și tropicală meridională. Pădurile ocupă în ansamblu peste 70% din suprafața peninsulei. De mare valoare economică sunt: cedrul coreean, molidul negru și cel argintiu, pinul roșu, stejarul, teiul castaniu, dafinul, stejarul sempervirescent, ginkgo, bambusul etc.
+	Fauna este diversă și cuprinde unele specii de interes cinegetic: tigrul de Ussuri, pantera, ursul brun, ursul negru, lupul roșu, jderul cu gușă galbenă, pisica sălbatică, cerbul comun, cerbul pătat, elanul, veverița, iepurele, fazanii etc.</value>
   </data>
-  <data name="History_of_Korea-476" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\History_of_Korea-476.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="samsung-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\samsung-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Coreea de sud steaguri" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Coreea de sud steaguri.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="jeju island" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jeju island.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Jeondong_Catholic_Cathedral_20230408_005" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jeondong_Catholic_Cathedral_20230408_005.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Auto_Show_061" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Auto_Show_061.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hangul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hangul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>~Climă~
+	Clima este temperată cu precipitații bogate în timpul verii și ierni care pot fi foarte friguroase. În Seul, temperatura medie a lunii ianuarie variază între -7 și +1 °C, iar temperatura medie a lunii iulie variază între 22 și 29 °C. În partea de sud, temperaturile sunt mai ridicate iarna și mult mai scăzute în depresiunile intramontane. Cantitatea de precipitații este concentrată între lunile de vară, din iunie până în septembrie. Coasta de sud este locul unde se produc taifunurile târzii, cu vânturi puternice și precipitații abundente.</value>
   </data>
 </root>

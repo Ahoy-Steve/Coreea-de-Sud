@@ -46,14 +46,68 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cultura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cultura.Designer.cs">
+      <DependentUpon>Cultura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Demografie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Demografie.Designer.cs">
+      <DependentUpon>Demografie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Economie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Economie.Designer.cs">
+      <DependentUpon>Economie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Geografie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geografie.Designer.cs">
+      <DependentUpon>Geografie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Istorie.Designer.cs">
+      <DependentUpon>Istorie.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Video_foto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Video_foto.Designer.cs">
+      <DependentUpon>Video_foto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cultura.resx">
+      <DependentUpon>Cultura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Demografie.resx">
+      <DependentUpon>Demografie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Economie.resx">
+      <DependentUpon>Economie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geografie.resx">
+      <DependentUpon>Geografie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istorie.resx">
+      <DependentUpon>Istorie.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,7 +116,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Video_foto.resx">
+      <DependentUpon>Video_foto.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +133,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coreea de sud steaguri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kim_Dae-Jung_2002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History_of_Korea-476.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Korea_south_map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Auto_Show_061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\samsung-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jeju island.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jeondong_Catholic_Cathedral_20230408_005.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangul.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
