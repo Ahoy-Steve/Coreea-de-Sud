@@ -29,7 +29,29 @@ namespace Coreea_de_Sud
         /// </summary>
         private void InitializeComponent()
         {
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
+            // 
+            // label2
+            // 
+            this.label2.BackColor = System.Drawing.Color.SteelBlue;
+            this.label2.Image = global::Coreea_de_Sud.Properties.Resources.videoicon_removebg_preview;
+            this.label2.Location = new System.Drawing.Point(863, 178);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(434, 429);
+            this.label2.TabIndex = 1;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // label1
+            // 
+            this.label1.BackColor = System.Drawing.Color.SteelBlue;
+            this.label1.Image = global::Coreea_de_Sud.Properties.Resources.pic_removebg_preview;
+            this.label1.Location = new System.Drawing.Point(250, 178);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(434, 429);
+            this.label1.TabIndex = 0;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Video_foto
             // 
@@ -37,6 +59,8 @@ namespace Coreea_de_Sud
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(1584, 861);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Video_foto";
@@ -47,5 +71,8 @@ namespace Coreea_de_Sud
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }

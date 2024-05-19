@@ -16,5 +16,23 @@ namespace Coreea_de_Sud
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Poze p = new Poze();
+            this.Hide();
+            p.ShowDialog();
+            p.Dispose();
+            this.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Video v = new Video();
+            this.Hide();
+            v.ShowDialog();
+            v.Dispose();
+            this.Show();
+        }
     }
 }

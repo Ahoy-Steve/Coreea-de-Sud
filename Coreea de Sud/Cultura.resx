@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>~Arhitectură și arte plastice~
+	Artele și cultura Coreei au fost puternic influențate de-a lungul anilor de contactul cu China. Budismul, care a dominat viața coreeană din secolul VII până în secolul XII, a influențat mult artele. Multe temple budiste, mănăstiri, morminte sfinte, palate și alte opere de artă ajută la dezvoltarea turismului Coreei de Sud. În timpul dinastiei Goryeo au fost construite numeroase opere de artă. Poveștile populare, muzica, poezia și teatrul, toate fac parte din tradiția budistă și confucianistă.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>~Cinematografie și televiziune~
+	Principalele posturi de televiziune din Coreea de Sud sunt MBC, SBS și KBS, ultima dintre ele este televiziunea națională sud-coreeană. Aceste posturi de televiziune au regizat filme și seriale care s-au bucurat de mari succese pe plan internațional. Dezvoltarea industriei filmului s-a accentuat după Războiul din Coreea de atunci și până în 1972, filmul sud-coreean a trăit așa-numita epocă de aur. În ultimii ani, mai multe filme și mai mulți regizori și actori din Coreea de Sud au reușit să obțină premii la festivaluri internaționale. Filmele și serialele sud-coreene au fost difuzate în mai multe state precum: Japonia, Republica Populară Chineză, Vietnam, Australia, România, Bosnia și Herțegovina, Kazahstan, etc.</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>~Hallyu (Valul Coreean)~
+	Hallyu sau ”Valul Coreean” este un termen larg folosit pentru a descrie popularitatea culturii coreene și a divertismentului dincolo de granițele Coreei. A apărut pentru prima oară în anul 1992 după ce Coreea a intrat în relații diplomatice cu China; serialele TV alături de muzica pop s-au bucurat de o enormă popularitate în comunitățile vorbitoare de chineză.
+	Hallyu a ajuns în Japonia în anul 2003, atunci când serialul KBS ”Sonată de Iarnă” a fost difuzat prin NKH. Drama s-a bucurat de un real succes, iar protagonistul său masculin, Bae Yong Joon într-un nume de talie mondială.
+	Valul Coreean s-a extins la cultură, tradiție, mâncare, limbă și literatură, creând din ce în ce mai multă frenezie.
+	Domeniul care se află în creșterea cea mai rapidă este K-Pop-ul din secolul XXI sau muzica pop coreeană. Cel mai bine reprezentată la nivel mondial de melodia lui Psy, Gangnam Style(2012).
+	Acest fapt a dus la nașterea grupurilor de Idoli K-pop, care au dominat piața muzicii pop din Asia: Stray Kids, BTS, Blackpink, TWICE, TVXQ, Super Junior, Big Bang, 2NE1, Girls Generation, LOONA, 2PM, Wonder Girls, etc.
+	În anul 2011 artiștii de la SM Entertainment au pus în scenă un concert comun în Le Zenith din Paris. Acesta a fost considerat un eveniment important în ceea ce privește aprecierea artiștilor coreeni în Europa. În același an au avut loc concerte ale JYJ în Spania și Germania, artiștii de la CUBE Entertainment au concertat în Marea Britanie și Brazilia, iar Girls Generation la Madison Square Garden din New York.</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>~Patrimoniu cultural~
+	Până în prezent, Coreea numără un total de 38 de articole de patrimoniu; Locuri de Patrimoniu Mondial, Opere de artă din Patrimoniul Oral și Imaterial al Umanității, ori au fost incluse în registrul UNESCO al Memoriei Lumii. Printre acestea se numără: Palatul Changdeokgung, Altarul Jongmyo, Fortăreața Hwaseong din Suwon, Mormintele Regale ale Dinastiei Joseon, Fortăreața Namhansanseong, ș.a.</value>
+  </data>
 </root>
