@@ -63,9 +63,29 @@ namespace Coreea_de_Sud.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2008_Yongsan_Fall_Festival_01 {
+            get {
+                object obj = ResourceManager.GetObject("2008_Yongsan_Fall_Festival-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Auto_Show_061 {
             get {
                 object obj = ResourceManager.GetObject("Auto_Show_061", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Changdeokgung_roof {
+            get {
+                object obj = ResourceManager.GetObject("Changdeokgung_roof", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,6 +163,26 @@ namespace Coreea_de_Sud.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pic_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("pic-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap razboiul_coreean {
+            get {
+                object obj = ResourceManager.GetObject("razboiul coreean", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap samsung_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("samsung-removebg-preview", resourceCulture);
@@ -156,6 +196,16 @@ namespace Coreea_de_Sud.Properties {
         internal static System.Drawing.Bitmap samsung_removebg_preview1 {
             get {
                 object obj = ResourceManager.GetObject("samsung-removebg-preview1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap videoicon_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("videoicon-removebg-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
