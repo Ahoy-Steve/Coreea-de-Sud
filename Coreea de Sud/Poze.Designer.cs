@@ -38,13 +38,12 @@ namespace Coreea_de_Sud
             // Poza
             // 
             this.Poza.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Poza.Location = new System.Drawing.Point(116, 47);
+            this.Poza.Location = new System.Drawing.Point(224, 71);
             this.Poza.Name = "Poza";
-            this.Poza.Size = new System.Drawing.Size(1377, 689);
+            this.Poza.Size = new System.Drawing.Size(1147, 684);
             this.Poza.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Poza.TabIndex = 0;
             this.Poza.TabStop = false;
-            this.Poza.Click += new System.EventHandler(this.Poza_Click);
             // 
             // button1
             // 

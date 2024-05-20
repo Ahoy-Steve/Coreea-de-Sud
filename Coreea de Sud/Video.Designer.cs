@@ -44,6 +44,7 @@ namespace Coreea_de_Sud
             this.wmp.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("wmp.OcxState")));
             this.wmp.Size = new System.Drawing.Size(1318, 837);
             this.wmp.TabIndex = 0;
+            this.wmp.Enter += new System.EventHandler(this.wmp_Enter);
             // 
             // ListaFilme
             // 

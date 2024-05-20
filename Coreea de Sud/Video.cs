@@ -35,11 +35,17 @@ namespace Coreea_de_Sud
         private void ListaFilme_SelectedIndexChanged(object sender, EventArgs e)
         {
             wmp.URL = (string)ListaFilme.SelectedItem;
+           
         }
 
         private void Video_FormClosing(object sender, FormClosingEventArgs e)
         {
-            wmp.Ctlcontrols.stop();
+            
+        }
+
+        private void wmp_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

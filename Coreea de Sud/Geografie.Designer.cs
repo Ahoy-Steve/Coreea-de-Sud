@@ -32,13 +32,13 @@ namespace Coreea_de_Sud
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Geografie));
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.richTextBox3 = new System.Windows.Forms.RichTextBox();
             this.richTextBox4 = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.label3 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -50,6 +50,7 @@ namespace Coreea_de_Sud
             this.richTextBox1.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(533, 12);
             this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
             this.richTextBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox1.Size = new System.Drawing.Size(1039, 430);
             this.richTextBox1.TabIndex = 1;
@@ -69,6 +70,17 @@ namespace Coreea_de_Sud
             this.groupBox2.TabStop = false;
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.SteelBlue;
+            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(6, 607);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(295, 40);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "Harta Coreei de Sud";
+            // 
             // label2
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -79,6 +91,17 @@ namespace Coreea_de_Sud
             this.label2.Size = new System.Drawing.Size(0, 29);
             this.label2.TabIndex = 2;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.pictureBox2.Image = global::Coreea_de_Sud.Properties.Resources.Korea_south_map;
+            this.pictureBox2.Location = new System.Drawing.Point(6, 19);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(503, 585);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 0;
+            this.pictureBox2.TabStop = false;
+            // 
             // richTextBox2
             // 
             this.richTextBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -86,8 +109,9 @@ namespace Coreea_de_Sud
             this.richTextBox2.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.Location = new System.Drawing.Point(533, 448);
             this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.ReadOnly = true;
             this.richTextBox2.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-            this.richTextBox2.Size = new System.Drawing.Size(235, 416);
+            this.richTextBox2.Size = new System.Drawing.Size(222, 416);
             this.richTextBox2.TabIndex = 4;
             this.richTextBox2.Text = resources.GetString("richTextBox2.Text");
             // 
@@ -96,10 +120,11 @@ namespace Coreea_de_Sud
             this.richTextBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox3.BackColor = System.Drawing.Color.SteelBlue;
             this.richTextBox3.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTextBox3.Location = new System.Drawing.Point(774, 448);
+            this.richTextBox3.Location = new System.Drawing.Point(761, 448);
             this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.ReadOnly = true;
             this.richTextBox3.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-            this.richTextBox3.Size = new System.Drawing.Size(433, 416);
+            this.richTextBox3.Size = new System.Drawing.Size(446, 416);
             this.richTextBox3.TabIndex = 5;
             this.richTextBox3.Text = resources.GetString("richTextBox3.Text");
             // 
@@ -110,6 +135,7 @@ namespace Coreea_de_Sud
             this.richTextBox4.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox4.Location = new System.Drawing.Point(1213, 448);
             this.richTextBox4.Name = "richTextBox4";
+            this.richTextBox4.ReadOnly = true;
             this.richTextBox4.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox4.Size = new System.Drawing.Size(359, 416);
             this.richTextBox4.TabIndex = 6;
@@ -125,28 +151,6 @@ namespace Coreea_de_Sud
             this.label1.Size = new System.Drawing.Size(466, 51);
             this.label1.TabIndex = 7;
             this.label1.Text = "Geografia Coreei de Sud";
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox2.Image = global::Coreea_de_Sud.Properties.Resources.Korea_south_map;
-            this.pictureBox2.Location = new System.Drawing.Point(6, 19);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(503, 585);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.SteelBlue;
-            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(6, 607);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(295, 40);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "Harta Coreei de Sud";
             // 
             // Geografie
             // 

@@ -65,6 +65,7 @@ namespace Coreea_de_Sud
             this.label3.Size = new System.Drawing.Size(102, 51);
             this.label3.TabIndex = 10;
             this.label3.Text = "Poze";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -76,6 +77,7 @@ namespace Coreea_de_Sud
             this.label4.Size = new System.Drawing.Size(181, 51);
             this.label4.TabIndex = 11;
             this.label4.Text = "Filmulețe";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // Video_foto
             // 

@@ -31,11 +31,6 @@ namespace Coreea_de_Sud
             Poza.Load(listaPoze[crt]);
         }
 
-        private void Poza_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             if (crt < NrPoze - 1) crt++;

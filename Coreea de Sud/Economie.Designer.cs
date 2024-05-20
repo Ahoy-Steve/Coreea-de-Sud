@@ -72,6 +72,7 @@ namespace Coreea_de_Sud
             this.richTextBox1.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(503, 12);
             this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
             this.richTextBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox1.Size = new System.Drawing.Size(1069, 174);
             this.richTextBox1.TabIndex = 9;
@@ -84,6 +85,7 @@ namespace Coreea_de_Sud
             this.richTextBox2.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.Location = new System.Drawing.Point(334, 192);
             this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.ReadOnly = true;
             this.richTextBox2.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox2.Size = new System.Drawing.Size(357, 657);
             this.richTextBox2.TabIndex = 10;
@@ -96,6 +98,7 @@ namespace Coreea_de_Sud
             this.richTextBox3.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox3.Location = new System.Drawing.Point(697, 192);
             this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.ReadOnly = true;
             this.richTextBox3.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox3.Size = new System.Drawing.Size(372, 273);
             this.richTextBox3.TabIndex = 11;
@@ -108,6 +111,7 @@ namespace Coreea_de_Sud
             this.richTextBox4.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox4.Location = new System.Drawing.Point(697, 471);
             this.richTextBox4.Name = "richTextBox4";
+            this.richTextBox4.ReadOnly = true;
             this.richTextBox4.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox4.Size = new System.Drawing.Size(372, 378);
             this.richTextBox4.TabIndex = 12;
@@ -121,6 +125,7 @@ namespace Coreea_de_Sud
             this.richTextBox5.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox5.Location = new System.Drawing.Point(1075, 192);
             this.richTextBox5.Name = "richTextBox5";
+            this.richTextBox5.ReadOnly = true;
             this.richTextBox5.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox5.Size = new System.Drawing.Size(497, 244);
             this.richTextBox5.TabIndex = 13;
@@ -134,6 +139,7 @@ namespace Coreea_de_Sud
             this.richTextBox6.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox6.Location = new System.Drawing.Point(1075, 442);
             this.richTextBox6.Name = "richTextBox6";
+            this.richTextBox6.ReadOnly = true;
             this.richTextBox6.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox6.Size = new System.Drawing.Size(497, 400);
             this.richTextBox6.TabIndex = 14;

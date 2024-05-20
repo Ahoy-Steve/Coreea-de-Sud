@@ -36,16 +36,16 @@ namespace Coreea_de_Sud
             this.richTextBox3 = new System.Windows.Forms.RichTextBox();
             this.richTextBox4 = new System.Windows.Forms.RichTextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.richTextBox5 = new System.Windows.Forms.RichTextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -66,6 +66,7 @@ namespace Coreea_de_Sud
             this.richTextBox1.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(438, 420);
             this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
             this.richTextBox1.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox1.Size = new System.Drawing.Size(529, 280);
             this.richTextBox1.TabIndex = 10;
@@ -78,6 +79,7 @@ namespace Coreea_de_Sud
             this.richTextBox2.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.Location = new System.Drawing.Point(12, 76);
             this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.ReadOnly = true;
             this.richTextBox2.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox2.Size = new System.Drawing.Size(409, 492);
             this.richTextBox2.TabIndex = 11;
@@ -90,6 +92,7 @@ namespace Coreea_de_Sud
             this.richTextBox3.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox3.Location = new System.Drawing.Point(448, 9);
             this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.ReadOnly = true;
             this.richTextBox3.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox3.Size = new System.Drawing.Size(1124, 405);
             this.richTextBox3.TabIndex = 12;
@@ -102,6 +105,7 @@ namespace Coreea_de_Sud
             this.richTextBox4.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox4.Location = new System.Drawing.Point(973, 420);
             this.richTextBox4.Name = "richTextBox4";
+            this.richTextBox4.ReadOnly = true;
             this.richTextBox4.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
             this.richTextBox4.Size = new System.Drawing.Size(599, 237);
             this.richTextBox4.TabIndex = 13;
@@ -120,6 +124,20 @@ namespace Coreea_de_Sud
             this.groupBox1.TabIndex = 16;
             this.groupBox1.TabStop = false;
             // 
+            // richTextBox5
+            // 
+            this.richTextBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.richTextBox5.BackColor = System.Drawing.Color.SteelBlue;
+            this.richTextBox5.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox5.Location = new System.Drawing.Point(189, 5);
+            this.richTextBox5.Name = "richTextBox5";
+            this.richTextBox5.ReadOnly = true;
+            this.richTextBox5.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
+            this.richTextBox5.Size = new System.Drawing.Size(214, 264);
+            this.richTextBox5.TabIndex = 11;
+            this.richTextBox5.Text = "O tânără coreeancă participând la dansurile tradiționale din cadrul ediției din 2" +
+    "008 a Paradei festivalului autumnal Yongsan (용산 가을축제) din Seul.";
+            // 
             // label2
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -130,18 +148,16 @@ namespace Coreea_de_Sud
             this.label2.Size = new System.Drawing.Size(0, 29);
             this.label2.TabIndex = 2;
             // 
-            // richTextBox5
+            // pictureBox1
             // 
-            this.richTextBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.richTextBox5.BackColor = System.Drawing.Color.SteelBlue;
-            this.richTextBox5.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTextBox5.Location = new System.Drawing.Point(189, 5);
-            this.richTextBox5.Name = "richTextBox5";
-            this.richTextBox5.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-            this.richTextBox5.Size = new System.Drawing.Size(214, 264);
-            this.richTextBox5.TabIndex = 11;
-            this.richTextBox5.Text = "O tânără coreeancă participând la dansurile tradiționale din cadrul ediției din 2" +
-    "008 a Paradei festivalului autumnal Yongsan (용산 가을축제) din Seul.";
+            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.pictureBox1.Image = global::Coreea_de_Sud.Properties.Resources._2008_Yongsan_Fall_Festival_01;
+            this.pictureBox1.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(183, 264);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // groupBox2
             // 
@@ -177,17 +193,6 @@ namespace Coreea_de_Sud
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox1.Image = global::Coreea_de_Sud.Properties.Resources._2008_Yongsan_Fall_Festival_01;
-            this.pictureBox1.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(183, 264);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
             // Cultura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -208,10 +213,10 @@ namespace Coreea_de_Sud
             this.Text = "Cultura";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
